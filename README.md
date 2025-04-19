@@ -1,2 +1,2 @@
 # Springboot-Microservices
-This is the application where i have saved what ever is do in spring boot &amp; micro services
+This is the application where i have saved what ever i do in spring boot &amp; micro services
